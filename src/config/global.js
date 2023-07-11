@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Conceptualización en BPG en la producción porcina',
+    descripcionCurso:
+      'Dentro de este componente se comprenderán los conceptos de las diferentes actividades, procesos, procedimientos, así como la normativa para la implantación de las Buenas Prácticas Ganaderas - BPG en la Producción Porcina, las cuales permitirán entender de manera integral su aplicación dentro de la unidad pecuaria.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +32,34 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Buenas prácticas ganaderas en la producción porcina',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: '1.1. Conceptos e importancia',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              '1.2. Fundamentos de inocuidad en la producción primaria pecuaria e IVC',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: '1.3. Normativa',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: '1.4. Beneficios',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: '1.5. Criterios de cumplimiento   ',
+            hash: 't_1_5',
           },
         ],
       },
@@ -45,14 +67,68 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Implementación de las BPG en la producción porcina',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: '2.1 Etapas de la implementación.',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: '2.2. Responsables',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: '2.3. Recursos',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Unidad Productiva Porcina ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: '3.1 Tipos y Características',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: '3.2 Diagnóstico para Implementación',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo:
+          'Recursos para la implementación de Buenas Prácticas Ganaderas (BPG)',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Seguridad y salud en el trabajo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: '5.1 Riesgos laborales',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: '5.2 Elementos de protección personal requeridos',
+            hash: 't_5_2',
+          },
+        ],
       },
     ],
     subMenu: [
