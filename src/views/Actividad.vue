@@ -10,15 +10,12 @@
             img(src="@/assets/template/Arrastrar_Soltar.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo:
-        p Conceptualización en BPG en la producción porcina.
-        p Antes de su realización, se recomienda la lectura del componente formativo mencionado. Es opcional (no es calificable), y puede realizarse todas las veces que se desee.
-        p De acuerdo al enunciado planteado en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+          h2 Etapas de la implementación de las BPG en la Producción Porcina
+        p.mb-4 #[b Objetivo] Identificar las etapas de la implementación de las BPG en la Producción Porcina
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Relación de términos
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
