@@ -44,27 +44,27 @@
             figure
               img(src='@/assets/curso/temas/tema4/img4.svg', alt='')
 
-          .tarjeta.color-acento-contenido.p-5(x="13.5%" y="73.5%" numero="")
+          .tarjeta.color-acento-contenido.p-3(x="13.5%" y="60.5%" numero="+")
             .h5.mb-2 1. Recursos físicos
             p Son la propiedad tangible, e incluyen instalaciones, oficinas, bodegas, terrenos, maquinaria, equipos y herramientas. Algunos recursos (por ejemplo, instalaciones de fabricación y centros de distribución) reflejan grandes inversiones que sólo se producen cada 20 años o más. Otros, como herramientas desechables, pueden requerir poca inversión y pueden ser cambiados con frecuencia.
 
-          .tarjeta.color-acento-botones.p-3(x="25%" y="35%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="25%" y="22%" numero="+")
             .h5.mb-2 2. Recursos humanos
             p Son los empleados que componen la fuerza de trabajo de las operaciones. Los empleados individuales difieren en sus habilidades, el conocimiento, la formación, la capacidad, flexibilidad y condiciones de empleo. También difieren en el papel que desempeñan.
 
-          .tarjeta.color-acento-contenido.p-3(x="50%" y="20%" numero="")
+          .tarjeta.color-acento-contenido.p-3(x="50%" y="7%" numero="+")
             .h5.mb-2 3. Recursos basados en el conocimiento de la función de operaciones
             p Son la propiedad Intelectual, el software y los métodos. Hacen referencia el conocimiento colectivo residente en la organización, no por los empleados individuales. 
 
-          .tarjeta.color-acento-contenido.p-3(x="75%" y="35%" numero="")
+          .tarjeta.color-acento-contenido.p-3(x="75%" y="22%" numero="+")
             .h5.mb-2 4. Ecosistema De recursos
             p Son las relaciones con los proveedores, distribuidores, clientes y socios, que constituyen colectivamente el ecosistema de negocios de la empresa. 
 
-          .tarjeta.color-acento-botones.p-3(x="86.5%" y="73.5%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="86.5%" y="60.5%" numero="+")
             .h5.mb-2 3. 5. Recursos financieros
-            p Son los tipos de fondos disponibles, incluyendo dinero en efectivo, generado por las operaciones, y los fondos disponibles de los mercados financieros. Estos recursos generalmente no son considerados como parte de las operaciones
+            p Son los tipos de fondos disponibles, incluyendo dinero en efectivo, generado por las operaciones, y los fondos disponibles de los mercados financieros. Estos recursos generalmente no son considerados como parte de las operaciones.
 
-
+    
 </template>
 
 <script>
