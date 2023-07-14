@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Unidad Productiva Porcina 
+      h1 Unidad productiva porcina 
 
     .row.justify-content-center.mt-5
       .col-10
@@ -23,7 +23,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1 Tipos y Características
+      h2 3.1 Tipos y características
 
     p(data-aos="zoom-in") Las unidades productivas porcinas pueden ser de varios tipos dependiendo de sus instalaciones de flujo continuo, de sitio y en tres niveles.
 
@@ -62,7 +62,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Diagnóstico para Implementación
+      h2 3.2 Diagnóstico para implementación
 
     .row.justify-content-center
       .col-10

@@ -61,7 +61,7 @@
             p Son las relaciones con los proveedores, distribuidores, clientes y socios, que constituyen colectivamente el ecosistema de negocios de la empresa. 
 
           .tarjeta.color-acento-botones.p-3(x="86.5%" y="60.5%" numero="+")
-            .h5.mb-2 3. 5. Recursos financieros
+            .h5.mb-2 5. Recursos financieros
             p Son los tipos de fondos disponibles, incluyendo dinero en efectivo, generado por las operaciones, y los fondos disponibles de los mercados financieros. Estos recursos generalmente no son considerados como parte de las operaciones.
 
     

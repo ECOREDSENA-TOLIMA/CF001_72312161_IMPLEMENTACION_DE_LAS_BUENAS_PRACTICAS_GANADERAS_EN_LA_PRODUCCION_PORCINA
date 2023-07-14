@@ -45,11 +45,11 @@
 
     p(data-aos="zoom-in") El <b>Instituto Nacional de Vigilancia de Medicamentos y Alimentos</b>, Invima, será responsable de la operación del Sistema Oficial de Inspección, Vigilancia y Control de Carne, Productos Cárnicos Comestibles y Derivados Cárnicos, quien en función de esta responsabilidad se articulará con las otras autoridades sanitarias y ambientales para coordinar los mecanismos de integración de los diferentes programas y acciones del ámbito del sistema. En este proceso interactúan varios elementos y se pueden ver en el siguiente gráfico:
       
-    img(src='@/assets/curso/temas/tema1/img3.svg')
+    img(src='@/assets/curso/temas/tema1/img3.svg').mt-5
 
     p(data-aos="zoom-in").mt-5 Las competencias de acuerdo con las disposiciones legales vigentes referidas a las acciones de inspección, vigilancia y control en el sistema oficial establecido en el presente capítulo serán:
 
-    .row.justify-content-center(data-aos="fade-left")
+    .row.justify-content-center(data-aos="fade-left").mt-5
       .col-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
@@ -73,16 +73,16 @@
             .col.mb-4.mb-md-0
               p Las actividades de inspección, vigilancia y control de transporte de animales en pie, serán competencia del Ministerio de Transporte. 
           
-    p(data-aos="zoom-in") A continuación, se describen los programas de inspección, vigilancia y control que se manejan por parte de la autoridad sanitaria competente en cuanto a los productos de procedencia porcina.
+    p(data-aos="zoom-in").mt-5 A continuación, se describen los programas de inspección, vigilancia y control que se manejan por parte de la autoridad sanitaria competente en cuanto a los productos de procedencia porcina.
 
-    .tarjeta.p-4(style="background-color: #EBE1BF").mb-5(data-aos="fade-left")
+    .tarjeta.p-4(style="background-color: #EBE1BF").mb-5(data-aos="fade-left").mt-5
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Insumos pecuarios (alimentos, biológicos y medicamentos)
             p Deben tener registro emitido por el Instituto Colombiano Agropecuario ICA, el cual establece en su normatividad que está prohibido el uso de promotores de crecimiento, nitrofuranos, cloranfenicol, violeta de genciana y dimetridazol en salud y producción animal. Además, este ente de control normatiza la venta de analgésicos, hormonas, antibióticos, anabólicos, entre otros con prescripción del médico veterinario. 
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='')
 
@@ -92,7 +92,7 @@
             p Están diseñados para la erradicación y control de las enfermedades porcinas de mayor importancia como las siguientes:
             p Peste Porcina Clásica (PPC): de acuerdo a la Ley 623 de 2000, en el año 2002 se inició el Programa de erradicación de la PPC estableciendo un constante proceso de vacunación a nivel nacional, con el objetivo de obtener el estatus de país libre. La Resolución No.100334 del 12 de julio de 2021, establece las siguientes zonas sanitarias de PPC en Colombia
 
-          .col-md-4
+          .col-md-4.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img5.png', alt='')
 
@@ -101,7 +101,7 @@
           .col-md-6.mb-4.mb-md-0
             p Enfermedad de Aujeszky: enfermedad infecciosa de tipo viral, causante de problemas respiratorios, reproductivos y del sistema nervioso. El ICA a través de la Resolución 091960 del 26 de febrero de 2021, declara como zona libre de la infección por el virus de la Enfermedad de Aujeszky a la siguiente lista
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img6.png', alt='')
 
@@ -109,13 +109,13 @@
           .col-md-6.mb-4.mb-md-0
             h3 Capacidad diagnóstica
             p A través del Convenio Marco de Cooperación Técnica suscrito entre el Instituto Colombiano Agropecuario y la Asociación Colombiana de Porcicultores – Fondo Nacional de la Porcicultura, se han implementado pruebas para el diagnóstico de las enfermedades endémicas y exóticas de importancia para el sector porcícola.
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img7.png', alt='')
 
-    p(data-aos="zoom-in") El diagnóstico es realizado por el ICA, a través del laboratorio nacional de diagnóstico veterinario - CEISA, donde hoy se tienen estandarizadas la mayoría de técnicas para atender el diagnóstico rutinario del sector. Sin embargo, es necesaria la implementación de nuevas técnicas de referencia y la descentralización del servicio diagnóstico a otros laboratorios oficiales o privados. Se ha identificado en cuanto a la capacidad diagnóstica la alta dependencia del ICA en recursos económicos y de personal provenientes del FNP.
+    p(data-aos="zoom-in").mt-5 El diagnóstico es realizado por el ICA, a través del laboratorio nacional de diagnóstico veterinario - CEISA, donde hoy se tienen estandarizadas la mayoría de técnicas para atender el diagnóstico rutinario del sector. Sin embargo, es necesaria la implementación de nuevas técnicas de referencia y la descentralización del servicio diagnóstico a otros laboratorios oficiales o privados. Se ha identificado en cuanto a la capacidad diagnóstica la alta dependencia del ICA en recursos económicos y de personal provenientes del FNP.
 
-    .row.justify-content-center 
+    .row.justify-content-center.mt-5 
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
           .bloque-texto-g__img(
@@ -127,7 +127,7 @@
     .row.mt-5(data-aos="fade-right")
       .col
         .tarjeta-tema1.color-acento-contenido.p-4
-          p <b>Nota:</b> Es necesario implementar sistemas de gestión de calidad en los laboratorios nacionales de referencia y la red de laboratorios para mejorar la confiabilidad del análisis y diagnóstico, y permitir la certificación internacional de las pruebas.
+          p <b>Nota:</b> es necesario implementar sistemas de gestión de calidad en los laboratorios nacionales de referencia y la red de laboratorios para mejorar la confiabilidad del análisis y diagnóstico, y permitir la certificación internacional de las pruebas.
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -135,7 +135,7 @@
 
     p(data-aos="zoom-in") El Instituto Colombiano Agropecuario (ICA) expidió la Resolución No. 76509 del 25 de septiembre de 2020 la cual establece los requisitos para obtener la certificación en buenas prácticas ganaderas (BPG), en la producción porcícola y de esta manera, deroga y reemplaza la Resolución 2640 de 2007 que contenía las anteriores disposiciones al respecto.
 
-    .row.justify-content-center 
+    .row.justify-content-center.mt-5
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
           .bloque-texto-g__img(
@@ -149,7 +149,7 @@
 
     .row.mt-5.justify-content-center
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Normatividad Buenas Prácticas Ganaderas En La Producción Porcina.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -184,7 +184,7 @@
 
     .row.mt-5.justify-content-center
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Forma-3-519-Lista-de-Chequeo-predios-productores-de-porcinos-con-destino-a-sacrificio.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
