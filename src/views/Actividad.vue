@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Etapas de la implementación de las BPG en la Producción Porcina
-        p.mb-4 #[b Objetivo] Identificar las etapas de la implementación de las BPG en la Producción Porcina
+        p.mb-4 #[b Objetivo]: Identificar las etapas de la implementación de las BPG en la producción porcina
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Buenas prácticas ganaderas en la producción porcina',
+        titulo: 'Buenas Prácticas Ganaderas en la producción porcina',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -72,7 +72,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Etapas de la implementación.',
+            titulo: 'Etapas de la implementación',
             hash: 't_2_1',
           },
           {
@@ -90,7 +90,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Unidad productiva porcina ',
+        titulo: 'Unidad productiva porcina',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -198,57 +198,57 @@ export default {
     {
       termino: 'Bienestar animal',
       significado:
-        'es el estado físico y mental de los animales con relación a las condiciones en las que viven y mueren. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020)',
+        'es el estado físico y mental de los animales con relación a las condiciones en las que viven y mueren. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020).',
     },
     {
       termino: 'Bioseguridad',
       significado:
-        'son todas aquellas medidas sanitarias, procedimientos técnicos y normas de manejo que se aplican de forma permanente, con el propósito de prevenir la entrada y salida de agentes infectocontagiosos en la unidad de producción primaria. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020)',
+        'son todas aquellas medidas sanitarias, procedimientos técnicos y normas de manejo que se aplican de forma permanente, con el propósito de prevenir la entrada y salida de agentes infectocontagiosos en la unidad de producción primaria. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020).',
     },
     {
       termino: 'Buenas Prácticas Ganaderas (BPG)',
       significado:
-        'prácticas recomendadas con el propósito de disminuir riesgos físicos, químicos y biológicos en la producción primaria de alimentos de origen animal que puedan generar riesgo a las personas promoviendo la sanidad, el bienestar animal y la protección del medio ambiente. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020)',
+        'prácticas recomendadas con el propósito de disminuir riesgos físicos, químicos y biológicos en la producción primaria de alimentos de origen animal que puedan generar riesgo a las personas promoviendo la sanidad, el bienestar animal y la protección del medio ambiente. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020).',
     },
     {
       termino: 'Buenas Prácticas en el Uso de Medicamentos Veterinarios (BPMV)',
       significado:
-        'se define como el cumplimiento de los métodos de empleo oficialmente recomendados para los medicamentos de uso veterinario, de conformidad con la información consignada en el rotulado de los productos aprobados, incluido el tiempo de retiro, cuando los mismos se utilizan bajo condiciones prácticas. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020)',
+        'se define como el cumplimiento de los métodos de empleo oficialmente recomendados para los medicamentos de uso veterinario, de conformidad con la información consignada en el rotulado de los productos aprobados, incluido el tiempo de retiro, cuando los mismos se utilizan bajo condiciones prácticas. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020).',
     },
     {
       termino: 'Condiciones laborales',
       significado:
-        'capacitación del personal, seguridad e higiene del personal y los animales que se manejan (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016)',
+        'capacitación del personal, seguridad e higiene del personal y los animales que se manejan (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016).',
     },
     {
       termino: 'Inocuidad',
       significado:
-        'característica o atributo de un alimento, que determina que el consumo del mismo no causa riesgo para la salud del consumidor. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020)',
+        'característica o atributo de un alimento, que determina que el consumo del mismo no causa riesgo para la salud del consumidor. (Resolución Instituto Colombiano Agropecuario ICA 68167 del 2020).',
     },
     {
       termino: 'Inocuidad de los alimentos',
       significado:
-        'es la garantía de que los alimentos no causarán daño al consumidor cuando se preparen y consuman de acuerdo con el uso al que se destina. (Sanidad e Inocuidad, Indispensables en la Seguridad Alimentaria, 2017)',
+        'es la garantía de que los alimentos no causarán daño al consumidor cuando se preparen y consuman de acuerdo con el uso al que se destina. (Sanidad e Inocuidad, Indispensables en la Seguridad Alimentaria, 2017).',
     },
     {
       termino: 'Manejo',
       significado:
-        'considera todas aquellas prácticas que promueven la productividad, bienestar general y salud de los animales e incluye el manejo de subproductos y residuos. (Implementación de Buenas Prácticas Ganaderas: principios básicos, 2018)',
+        'considera todas aquellas prácticas que promueven la productividad, bienestar general y salud de los animales e incluye el manejo de subproductos y residuos. (Implementación de Buenas Prácticas Ganaderas: principios básicos, 2018).',
     },
     {
       termino: 'Registro',
       significado:
-        'documento que presenta los resultados obtenidos o proporciona evidencia de actividades desempeñadas (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016)',
+        'documento que presenta los resultados obtenidos o proporciona evidencia de actividades desempeñadas (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016).',
     },
     {
       termino: 'Riesgo',
       significado:
-        'es la probabilidad de que un peligro se presente. (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016)',
+        'es la probabilidad de que un peligro se presente. (Guía de Buenas Prácticas Pecuarias en la Producción de Leche, 2016).',
     },
     {
       termino: 'Trazabilidad',
       significado:
-        'es el conjunto de acciones y procedimientos que permiten la identificación, registro y seguimiento a todos los eventos de la vida del animal, desde su nacimiento hasta el consumidor final. (Implementación de Buenas Prácticas Ganaderas: principios básicos, 2018)',
+        'es el conjunto de acciones y procedimientos que permiten la identificación, registro y seguimiento a todos los eventos de la vida del animal, desde su nacimiento hasta el consumidor final. (Implementación de Buenas Prácticas Ganaderas: principios básicos, 2018).',
     },
   ],
   referencias: [
@@ -261,12 +261,6 @@ export default {
       referencia: 'ICA (2021) Censo Pecuario Nacional.',
       link:
         'https://www.ica.gov.co/areas/pecuaria/servicios/epidemiologia-veterinaria/censos-2016/censo-2018',
-    },
-    {
-      referencia:
-        'Universidad de Córdoba, España (s/f). Características y Particularidades de la Empresa Ganadera. Departamento de Producción Animal.',
-      link:
-        'https://www.uco.es/organiza/departamentos/prod-animal/economia/aula/img/pictorex/14_07_59_tema0.pdf',
     },
     {
       referencia:

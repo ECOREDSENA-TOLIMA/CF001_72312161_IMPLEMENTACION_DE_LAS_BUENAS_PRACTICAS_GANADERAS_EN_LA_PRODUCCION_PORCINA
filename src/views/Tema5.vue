@@ -27,7 +27,7 @@
         tr(style="height: 50px") 10. Resolución 1409 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.
         tr(style="height: 50px") 11. Decreto-Ley 1295 1994 por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
         tr(style="height: 50px") 12. Resolución 1792 1990 por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
-        tr(style="height: 50px") 13. Resolución 2013 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo
+        tr(style="height: 50px") 13. Resolución 2013 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
         tr(style="height: 50px") 14. Resolución 2400 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
 
     separador
@@ -44,7 +44,7 @@
             p.mb-0 El capital humano es fundamental en el funcionamiento de la empresa porcícola y es por esto que se deben garantizar buenas condiciones laborales que beneficien a los colaboradores y se vea reflejado en la productividad de la finca. Una lesión o una enfermedad laboral puede causar serios problemas económicos. Además, que también causa dificultades emocionales y físicas, afectando el desarrollo de un trabajo eficiente.
 
     p(data-aos="zoom-in").mt-5 Es recomendable que, si se quieren reducir los riesgos en las producciones porcinas, en la finca se debe hacer una valoración de los peligros potenciales y a partir de esta se deben plantear las medidas y acciones necesarias para su control. Lo anterior teniendo en cuenta que las personas que trabajan en las explotaciones porcinas están expuestas a varios tipos de riesgos que se muestran a continuación, con el fin de que todas las personas implicadas en esta actividad los tengan en cuenta y puedan disminuir el número de accidentes y así mejorar las condiciones de trabajo. 
-    p(data-aos="zoom-in") Se invita a revisar el siguiente recurso donde se describen cada uno de los riesgos laborales:
+    p(data-aos="zoom-in") Se invita a revisar la descripción de cada uno de los riesgos laborales:
 
     .tarjeta.p-4.mt-5(style="background-color: #EBE1BF").mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -104,7 +104,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Psicosocial
-            p Este tipo de riesgo se refiere a aquellos factores de las condiciones de trabajo que afectan a la salud de las personas a través de mecanismos psicológicos y fisiológicos a los que se llama estrés tales como la carga laboral, conductas violentas en el trabajo, monotonía y autonomía.
+            p Este tipo de riesgo se refiere a aquellos factores de las condiciones de trabajo que afectan a la salud de las personas a través de mecanismos psicológicos y fisiológicos a los que se llama estrés, tales como: la carga laboral, conductas violentas en el trabajo, monotonía y autonomía.
 
           .col-md-6
             figure

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Hasta este punto ha podido apreciar el componente formativo, Conceptualización en BPG en la producción porcina, la unidad productiva porcina, los recursos para la implementación, seguridad y salud en el trabajo, por ello lo invito a ver el siguiente esquema conceptual que resume la temática tratada.
+    p A continuación, se describe el tema principal del componente formativo, <b>Conceptualización en BPG en la producción porcina</b>, en donde se comprenden los conceptos de las diferentes actividades, procesos, procedimientos, así como la normativa para la implantación de las BPG en la producción porcina, las cuales permitirán entender de manera integral su aplicación dentro de la unidad pecuaria.
 
     .row.justify-content-center
       .col-lg-10.mb-5

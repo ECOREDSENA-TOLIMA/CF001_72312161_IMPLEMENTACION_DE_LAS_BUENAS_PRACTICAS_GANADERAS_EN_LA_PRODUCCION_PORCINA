@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La implementación de BPG en la producción porcina, además de asegurar que los productos producidos no afecten la salud del consumidor, deben garantizar que su producción no afecte negativamente al medio ambiente. De igual manera, deben garantizar la eficiencia y productividad de la empresa porcina manejando el uso racional de los recursos tanto físicos, económicos y de personal. Un recurso es una herramienta o elemento que se utiliza para conseguir los objetivos propuestos en la empresa o para desarrollar un proceso productivo. Son parte fundamental de los proyectos y generalmente cuentan con tres características principales: que posean una utilidad, que estén disponibles y que se consuman o se agoten en su uso (insumos). Los recursos pueden clasificarse en:
+            p.mb-0 La implementación de BPG en la producción porcina, además de asegurar que los productos producidos no afecten la salud del consumidor, deben garantizar que su producción no afecte negativamente al medio ambiente. De igual manera, deben garantizar la eficiencia y productividad de la empresa porcina, manejando el uso racional de los recursos tanto físicos, económicos y de personal. Un recurso es una herramienta o elemento que se utiliza para conseguir los objetivos propuestos en la empresa o para desarrollar un proceso productivo. Son parte fundamental de los proyectos y generalmente cuentan con tres características principales: que posean una utilidad, que estén disponibles y que se consuman o se agoten en su uso (insumos). Los recursos pueden clasificarse en:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mt-5(data-aos="fade-left")
       .row.align-items-center(titulo="Recursos naturales")
@@ -54,10 +54,10 @@
 
           .tarjeta.color-acento-contenido.p-3(x="50%" y="7%" numero="+")
             .h5.mb-2 3. Recursos basados en el conocimiento de la función de operaciones
-            p Son la propiedad Intelectual, el software y los métodos. Hacen referencia el conocimiento colectivo residente en la organización, no por los empleados individuales. 
+            p Son la propiedad Intelectual, el <i>software</i> y los métodos. Hacen referencia el conocimiento colectivo residente en la organización, no por los empleados individuales. 
 
           .tarjeta.color-acento-contenido.p-3(x="75%" y="22%" numero="+")
-            .h5.mb-2 4. Ecosistema De recursos
+            .h5.mb-2 4. Ecosistema de recursos
             p Son las relaciones con los proveedores, distribuidores, clientes y socios, que constituyen colectivamente el ecosistema de negocios de la empresa. 
 
           .tarjeta.color-acento-botones.p-3(x="86.5%" y="60.5%" numero="+")

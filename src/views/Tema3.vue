@@ -25,7 +25,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Tipos y características
 
-    p(data-aos="zoom-in") Las unidades productivas porcinas pueden ser de varios tipos dependiendo de sus instalaciones de flujo continuo, de sitio y en tres niveles.
+    p(data-aos="zoom-in") Las unidades productivas porcinas pueden ser de varios tipos dependiendo de sus instalaciones de flujo continuo, de sitio y en tres niveles:
 
     .row.justify-content-center.mt-5
       .col-4
@@ -88,7 +88,7 @@
             p <b>Anexo</b>. LISTA DE CHEQUEO PARA PREDIOS PRODUCTORES DE PORCINOS CON DESTINO AL SACRIFICIO
 
     .cajon.color-acento-contenido.p-4.mt-5
-      p Una vez aplicada la lista de chequeo, se van a contabilizar los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los aspectos menores y fundamentales al 100% y los Mayores cerca del 100%, lo que será suficiente para obtener la certificación del predio en BPG y permitirá obtener beneficios en la empresa tanto en el nivel interno como externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
+      p Una vez aplicada la lista de chequeo, se van a contabilizar los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los aspectos menores y fundamentales al 100 % y los mayores cerca del 100 %, lo que será suficiente para obtener la certificación del predio en BPG y permitirá obtener beneficios en la empresa tanto en el nivel interno como externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
 
 
 </template>
