@@ -161,6 +161,11 @@ export default {
       },
       {
         icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_001.pdf',
+      },
+      {
+        icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
       },
@@ -270,7 +275,7 @@ export default {
     },
     {
       referencia:
-        'Beyli M. Eugenia, Brunori Jorge, Campagna Daniel, Cottura Germán, Crespo Diana, Denegri David, Ducommun Luz, Faner Claudio, Figueroa María Eugenia, Giovannini Fabiana, Franco Raúl, Goenaga Pedro, Lomello Viviana, Lloveras Marcela, Millares Patricia, Odetto Silvina, Panichelli Dario, Pietrantonio Julio, Rodríguez Fazzone Marcos, Suárez Rubén, Spiner Naum, Zielinsky Gustavo (2012) Buenas Prácticas Pecuarias (BPP) para la producción y comercialización porcina familiar, Organización de las Naciones Unidas para la Agricultura y la Alimentación – FAO, Ministerio de Agricultura, Ganadería y Pesca de la Nación - MAGyP, Instituto Nacional de Tecnología Agropecuaria – INTA. (2012).',
+        'Beyli M. Eugenia, Brunori Jorge, Campagna Daniel, Cottura Germán, Crespo Diana, Denegri David, Ducommun Luz, Faner Claudio, Figueroa María Eugenia, Giovannini Fabiana, Franco Raúl, Goenaga Pedro, Lomello Viviana, Lloveras Marcela, Millares Patricia, Odetto Silvina, Panichelli Dario, Pietrantonio Julio, Rodríguez Fazzone Marcos, Suárez Rubén, Spiner Naum, Zielinsky Gustavo (2012) Buenas Prácticas Pecuarias (BPP) para la producción y comercialización porcina familiar, Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO, Ministerio de Agricultura, Ganadería y Pesca de la Nación - MAGyP, Instituto Nacional de Tecnología Agropecuaria - INTA. (2012).',
       link:
         'https://www.produccion-animal.com.ar/produccion_porcina/00-produccion_porcina_general/280-a-i2094s.pdf',
     },
@@ -288,7 +293,7 @@ export default {
     },
     {
       referencia:
-        'Rodríguez Sánchez Luz Aida, Ronderos Corredor Tania Catalina (2019) Porkcolombia – Alimentando la vida, Pontificia Universidad Javeriana.',
+        'Rodríguez Sánchez Luz Aida, Ronderos Corredor Tania Catalina (2019) Porkcolombia - Alimentando la vida, Pontificia Universidad Javeriana.',
       link:
         'https://repository.javeriana.edu.co/bitstream/handle/10554/43744/PORKCOLOMBIA%20Caso%20de%20Estudio.pdf?sequence=4&isAllowed=y#:~:text=Historia%20de%20la%20porcicultura%20en,aceler%C3%B3%20y%20transform%C3%B3%20la%20porcicultura.',
     },
@@ -304,7 +309,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario – ICA (2016) Las buenas prácticas ganaderas en la producción porcícola.',
+        'Instituto Colombiano Agropecuario - ICA (2016) Las buenas prácticas ganaderas en la producción porcícola.',
       link:
         'https://www.ica.gov.co/noticias/todas/2016/las-buenas-practicas-ganaderas-en-la-produccion-po.aspx',
     },
@@ -363,12 +368,12 @@ export default {
         {
           nombre: 'Humberto Arias Díaz',
           cargo: 'Diseñador Instruccional',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Asesor Metodológico',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -378,32 +383,32 @@ export default {
         {
           nombre: 'Aruzidna Sánchez Alonso',
           cargo: 'Diseñador web',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Davison Gaitán Escobar',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Producción audiovisual',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
           cargo: 'Animador',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Actividad Didáctica',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -413,12 +418,12 @@ export default {
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
