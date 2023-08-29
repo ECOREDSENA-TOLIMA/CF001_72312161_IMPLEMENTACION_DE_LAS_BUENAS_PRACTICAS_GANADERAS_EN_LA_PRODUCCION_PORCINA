@@ -88,7 +88,7 @@
     p(data-aos="zoom-in").mt-5 En la siguiente figura se describen los componentes temáticos necesarios para llevar a cabo una correcta implementación de las buenas prácticas ganaderas en la unidad productiva porcina.
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-5(data-aos="fade-left")
-          h5 Figura 1. 
+          h5 Figura 2. 
           span <i>Componentes temáticos de la implementación de BPG</i>
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-10

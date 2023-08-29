@@ -95,7 +95,7 @@
           .col-md-6.mb-4.mb-md-0
             h3 Programas de sanidad porcícola
             p Están diseñados para la erradicación y control de las enfermedades porcinas de mayor importancia como las siguientes:
-            p Peste Porcina Clásica (PPC): de acuerdo a la Ley 623 de 2000, en el año 2002 se inició el Programa de erradicación de la PPC estableciendo un constante proceso de vacunación a nivel nacional, con el objetivo de obtener el estatus de país libre. La Resolución No.100334 del 12 de julio de 2021, establece las siguientes zonas sanitarias de PPC en Colombia
+            p Peste Porcina Clásica (PPC): de acuerdo a la Ley 623 de 2000, en el año 2002 se inició el Programa de erradicación de la PPC estableciendo un constante proceso de vacunación a nivel nacional, con el objetivo de obtener el estatus de país libre. La Resolución No.100334 del 12 de julio de 2021, establece las siguientes zonas sanitarias de PPC en Colombia:
 
           .col-md-4.p-3
             figure

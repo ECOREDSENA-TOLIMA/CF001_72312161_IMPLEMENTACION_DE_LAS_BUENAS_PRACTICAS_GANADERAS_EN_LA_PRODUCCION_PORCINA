@@ -95,12 +95,12 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Tipos y Características',
+            titulo: 'Tipos y características',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Diagnóstico para Implementación',
+            titulo: 'Diagnóstico para implementación',
             hash: 't_3_2',
           },
         ],
