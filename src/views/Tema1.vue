@@ -50,7 +50,7 @@
       span <i>Procesos del Invima</i>
 
     figure
-      img(src='@/assets/curso/temas/tema1/img3.svg').mt-5
+      img(src='@/assets/curso/temas/tema1/img3.svg', alt="Figura 1. Procesos del INVIMA. Se encuentran  sistema oficial de inspección, vigilancia y control de carne, productos cárnicos comestibles, y derivados cárnicos.").mt-5
 
     p(data-aos="zoom-in").mt-5 Las competencias de acuerdo con las disposiciones legales vigentes referidas a las acciones de inspección, vigilancia y control en el sistema oficial establecido en el presente capítulo serán:
 
@@ -98,8 +98,11 @@
             p Peste Porcina Clásica (PPC): de acuerdo a la Ley 623 de 2000, en el año 2002 se inició el Programa de erradicación de la PPC estableciendo un constante proceso de vacunación a nivel nacional, con el objetivo de obtener el estatus de país libre. La Resolución No.100334 del 12 de julio de 2021, establece las siguientes zonas sanitarias de PPC en Colombia:
 
           .col-md-4.p-3
+            .titulo-sexto.color-acento-contenido.mb-3.mt-5(data-aos="fade-left")
+              h5 Figura 2. 
+              span <i>Zonas sanitarias de PPC en Colombia</i>
             figure
-              img(src='@/assets/curso/temas/tema1/img5.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img5.png', alt='Figura 2. Las zonas sanitarias de Peste Porcina Clásica (PPC) en Colombia están definidas en la Resolución No,100334 del 12 de julio de 2021.')
 
           
         .row.justify-content-center.align-items-center.my-lg-4
