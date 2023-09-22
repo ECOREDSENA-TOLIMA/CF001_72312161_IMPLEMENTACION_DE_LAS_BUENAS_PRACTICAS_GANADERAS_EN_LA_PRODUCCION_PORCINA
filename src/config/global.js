@@ -198,6 +198,30 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=fRJwu3_Pjo4',
     },
+    {
+      tema: 'Fundamentos de inocuidad en la producción primaria pecuaria e IVC',
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA).  Resolución 091960 del 26 de febrero de 2021 a través de la cual declara zona libre de la infección por el virus de la Enfermedad de Aujeszky.',
+      tipo: 'Documento',
+      link:
+        'https://www.ica.gov.co/getattachment/1c3631f7-0f9f-487a-8d85-069fea9e8225/2021R91960.aspx',
+    },
+    {
+      tema: 'Criterios de cumplimiento',
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA) Resolución 76509 de 2020, establece los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la Producción Porcina. ',
+      tipo: 'Documento',
+      link:
+        'https://www.ica.gov.co/getattachment/af26e0f9-18bb-4fd7-8100-ba74f386ee28/2020R76509.aspx',
+    },
+    {
+      tema: 'Criterios de cumplimiento ',
+      referencia:
+        'Lista de Chequeo para predios productores de porcinos con destino a sacrificio.',
+      tipo: 'Documento',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx',
+    },
   ],
   glosario: [
     {

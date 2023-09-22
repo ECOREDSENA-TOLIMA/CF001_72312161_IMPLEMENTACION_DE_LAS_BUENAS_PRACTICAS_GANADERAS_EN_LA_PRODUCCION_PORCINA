@@ -73,20 +73,8 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 La implementación de las Buenas Prácticas Ganaderas, parte del interés que tenga el productor en tener una empresa sostenible, con un aumento de su productividad, amigable con el medio ambiente, que preserve la integridad física y emocional de sus trabajadores, una producción que brinde un trato digno a sus animales, que en la comunidad genere impacto positivamente, y por supuesto, que su producto final sea inocuo y de buena calidad y de esta manera tengan gran aceptación en el mercado, asegurando el proceso de comercialización y la rentabilidad de la empresa ganadera porcina.
 
-    p(data-aos="zoom-in").mt-5 Para la realización del diagnóstico de aplicación de las BPG en el predio se deben tener en cuenta algunos aspectos importantes que van a permitir obtener una “fotografía” de las condiciones reales de la producción como por ejemplo mostrar el manejo que se les da a los animales, las condiciones en que los trabajadores desarrollan sus labores y los riesgos a los que están expuestos. A continuación, es necesario revisar la normatividad vigente de las BPG, establecida por el Instituto Colombiano Agropecuario ICA y finalmente aplicar la lista de chequeo de “predios productores de canal porcina con destino al consumo humano - Forma 3-519”. Esta lista de chequeo se aplica con el fin de encontrar carencias ante la normatividad e iniciar un plan que permita completar los aspectos faltantes para poder obtener la certificación. 
-    p(data-aos="zoom-in") Se sugiere revisar las listas de chequeo para una mayor comprensión: 
-
-    .cajon-temas.color-primario.p-4
-      p Lista de chequeo para predios productores de carne de bovinos y/o bufalinos con destino al consumo humano - Forma 3-519 
-
-    .row.mt-5.justify-content-center
-      .col-lg-6
-        a.anexo.mb-4(href="https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/listado-de-predios-certificados-en-bpg/forma-3-519-lista-de-chequeo-predios-productores-d.aspx" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p <b>Anexo</b>. LISTA DE CHEQUEO PARA PREDIOS PRODUCTORES DE PORCINOS CON DESTINO AL SACRIFICIO
-
+    p(data-aos="zoom-in").mt-5 Para la realización del diagnóstico de aplicación de las BPG en el predio se deben tener en cuenta algunos aspectos importantes que van a permitir obtener una “fotografía” de las condiciones reales de la producción como por ejemplo mostrar el manejo que se les da a los animales, las condiciones en que los trabajadores desarrollan sus labores y los riesgos a los que están expuestos. A continuación, es necesario revisar la normatividad vigente de las BPG, establecida por el Instituto Colombiano Agropecuario ICA y realizar su aplicación con el fin de encontrar carencias ante la normatividad e iniciar un plan que permita completar los aspectos faltantes para poder obtener la certificación. 
+    
     .cajon.color-acento-contenido.p-4.mt-5
       p Una vez aplicada la lista de chequeo, se van a contabilizar los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los aspectos menores y fundamentales al 100 % y los mayores cerca del 100 %, lo que será suficiente para obtener la certificación del predio en BPG y permitirá obtener beneficios en la empresa tanto en el nivel interno como externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
 
